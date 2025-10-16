@@ -1,8 +1,8 @@
-# World-Happiness-Report-Analysis
+# World Happiness Report Analysis
 
 Here is a summary of the provided Jupyter Notebook project, which analyzes the **World Happiness Report Dataset**.
 
-![LOGO]()
+![LOGO](https://github.com/i-ayush-7/World-Happiness-Report-Analysis/blob/main/Image.png)
 
 ## Project Summary: World Happiness Report Analysis
 
